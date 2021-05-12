@@ -1,7 +1,3 @@
-# Sebastián Lavigne
-
-_Software developer based in Madrid, Spain_
-
 ## 👔 Work experience
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
