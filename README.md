@@ -7,20 +7,18 @@ _Software developer based in Madrid, Spain_
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
   - Analysis, development, maintenance, quality control, versioning, deployment, testing and documentation of multiple legacy applications
-  - **_Environment:_** Java 1.6 / J2EE (Spring 2, Struts, Maven, Hibernate /JDBC), Subversion, Oracle Database, Alfresco, JBoss
+  - **_Environment:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
   - **_Tools:_** NetBeans IDE, Toad for Oracle, SonarQube, Jenkins, JMeter, Redmine
 <br><br>    
 
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/) consulting for [DGOJ](https://www.ordenacionjuego.es/) _(Nov 2019 - Feb 2021)_ <br>
-Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications 
+**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) _(Nov 2019 - Feb 2021)_ <br>
+Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications that process requests related to gambling activities.
+  - Development, maintenance, versioning, deployment and testing of multiple framework and non-framework applications
+  - 
+  - - **_Environment:_** Java 1.8 / J2EE (Spring 3, Struts, Maven, Hibernate / Ibatis / JDBC, SOAP Web Services, JUnit), Subversion, Oracle Database, Alfresco, Apache Tomcat
+  - **_Tools:_** Eclipse IDE, Oracle SQL Developer, SoapUI
+<br><br>
 
-* 2019-10-22 - 2021-02-26\
-  **Programador Junior**\
-  **DGOJ** < Bilbomática, Madrid, España
-  * Mantenimiento y desarrollo de nuevos evolutivos para múltiples aplicaciones relacionadas con la regulación del juego seguro.
-  * Desarrollo de evolutivos, migración de arquitectura, migración de datos, creación de librerías, control de versiones, despliegue y prueba de aplicaciones.
-  * JAVA 8 / J2EE (Spring 3.x, Maven, SVN, Hibernate / Ibatis / JDBC, SOAP Web Services, Struts 2.x, HTML+CSS+JS, Junit 4), Oracle Database 12g, Apache Tomcat 8, Alfresco
-  * Eclipse IDE, Oracle SQL Developer, SoapUI
 
 * 2019-10-02 - 2019-10-22\
   **Programador Junior**\
