@@ -1,16 +1,25 @@
-## Education
+# Sebastián Lavigne
 
-* 2009 - 2011\
-  **Título de Bachillerato, Matrícula de Honor**, *I.E.S. Virgen del Puerto*, Plasencia, España.\
-  Modalidad Científico-Tecnológico
-* 2011 - 2015\
-  **Grado en Ingeniería Aeroespacial**, *Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, U.P.M.*, Madrid, España.\
-  No finalizado
-* 2017 - 2019\
-  **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**, *I.E.S Valle del Jerte*, Plasencia, España.
-  * **Acreditación de Nivel Básico de Prevención de Riesgos Laborales**
+_Software developer based in Madrid, Spain_
 
 ## Work experience
+
+## 💬 Languages
+
+**Spanish**: Native
+**English**: Bilingual <br>
+**French**: Basic <br>
+**German**: Über basic <br>
+<br><br>
+
+## 🎓 Education
+
+2017 - 2019
+**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**, *I.E.S Valle del Jerte*, Plasencia, España.
+  
+2011 - 2015
+**Grado en Ingeniería Aeroespacial**, *Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, U.P.M.*, Madrid, España.\
+No finalizado
 
 * 2019-03-18 - 2019-05-06\
   **Desarrollador de software Full-Stack en prácticas**\
