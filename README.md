@@ -1,37 +1,96 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/sebaslavigne/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* 2009 - 2011\
+  **Título de Bachillerato, Matrícula de Honor**, *I.E.S. Virgen del Puerto*, Plasencia, España.\
+  Modalidad Científico-Tecnológico
+* 2011 - 2015\
+  **Grado en Ingeniería Aeroespacial**, *Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, U.P.M.*, Madrid, España.\
+  No finalizado
+* 2017 - 2019\
+  **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**, *I.E.S Valle del Jerte*, Plasencia, España.
+  * **Acreditación de Nivel Básico de Prevención de Riesgos Laborales**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work experience
 
-### Markdown
+* 2019-03-18 - 2019-05-06\
+  **Desarrollador de software Full-Stack en prácticas**\
+  **Docuten**, Madrid, España
+  * Tareas de desarrollo, mantenimiento y soporte del portal web y varias APIs como miembro del equipo técnico bajo un marco Scrum.
+  * Java 8, Apache Struts 2, Javascript, Bootstrap, MySQL, Spring, Hibernate, Groovy, Spock, Jenkins, SOAP, REST, Git + Git Flow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 2019-10-02 - 2019-10-22\
+  **Programador Junior**\
+  **Madrid Digital** < Bilbomática, Madrid, España
+  * Desarrollo de reglas de análisis para código Java, integración de librerías externas, importación de informes externos, métricas propias, ejecución de procesos post-análisis
+  * SonarQube (y herramientas del entorno Sonar), IntelliJ IDEA
 
-```markdown
-Syntax highlighted code block
+* 2019-10-22 - 2021-02-26\
+  **Programador Junior**\
+  **DGOJ** < Bilbomática, Madrid, España
+  * Mantenimiento y desarrollo de nuevos evolutivos para múltiples aplicaciones relacionadas con la regulación del juego seguro.
+  * Desarrollo de evolutivos, migración de arquitectura, migración de datos, creación de librerías, control de versiones, despliegue y prueba de aplicaciones.
+  * JAVA 8 / J2EE (Spring 3.x, Maven, SVN, Hibernate / Ibatis / JDBC, SOAP Web Services, Struts 2.x, HTML+CSS+JS, Junit 4), Oracle Database 12g, Apache Tomcat 8, Alfresco
+  * Eclipse IDE, Oracle SQL Developer, SoapUI
 
-# Header 1
-## Header 2
-### Header 3
+  2021-03-01 - Actualidad\
+  **Programador Senior**\
+  **CSIC** < Bilbomática, Madrid, España
+  * Mantenimiento y desarrollo de nuevos evolutivos para aplicaciones relacionadas con la administración de prestaciones del CSIC a terceros investigadores.
+  * Análisis, desarrollo de evolutivos, mantenimiento, control de versiones, despliegue y prueba de aplicaciones, documentación
+  * Java 6 / J2EE (Spring 2, Maven, SVN, Hibernate /JDBC, Struts, HTML+CSS+JS), Oracle DB, Apache Tomcat, JBoss, SonarQube, Jenkins, JMeter, RedMine, Alfresco
+  * NetBeans IDE, Toad for Oracle
 
-- Bulleted
-- List
+## Other experience
 
-1. Numbered
-2. List
+* 2020-04-10 - Actualidad\
+  **Creator**\
+  **Bear My Banner** A mod for Mount & Blade 2: Bannerlord
+  * A deeply customizable mod that adds banners into the game using existing but hidden assets
+  * C#, Git (Git Flow)
+  * Microsoft Visual Studio
 
-**Bold** and _Italic_ and `Code` text
+## Knowledge
 
-[Link](url) and ![Image](src)
-```
+### Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Java (J2EE, Maven, Gradle, JSP, JPA, JDBC, JSF, Struts, Spring, Hibernate, Groovy, JUnit, Spock)
+* C#
+* Python
+* Fortran
+* JavaScript (JQuery, Bootstrap)
+* HTML, XHTML, CSS
+* XML, JSON, YAML
+* LaTeX
+* SQL (Oracle, MySQL, PostgreSQL)
 
-### Jekyll Themes
+### Tools and concepts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebaslavigne/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Git (Git Flow)
+* Subversion
+* SonarQube
+* Jmeter
+* Jenkins
+* JIRA
+* GIMP
+* UML
+* MVC
+* TDD
+* SoapUI
+* Postman
+ 
+### OS
 
-### Support or Contact
+* Linux (systemd)
+* Windows
+* Android
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### IDEs
+
+* IntelliJ IDEA, NetBeans, Eclipse
+* Visual Studio
+* Android Studio
+* Spyder
+* PyCharm
+* Unity3D
+* GameMaker
+* TeXStudio
