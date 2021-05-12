@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## 👔 Work experience
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
