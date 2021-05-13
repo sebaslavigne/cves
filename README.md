@@ -4,14 +4,14 @@
 
 ## 👨‍💼 Work experience
 
-**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
+**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) **_(Mar 2021 - Present)_** <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
   - **_Tasks:_** Analysis, development, maintenance, quality control, versioning, testing, deployment and documentation of multiple legacy applications
   - **_Environment:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
   - **_Tools:_** NetBeans IDE, Toad for Oracle, SonarQube, Jenkins, JMeter, Redmine
 <br><br>    
 
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) _(Nov 2019 - Feb 2021)_ <br>
+**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) **_(Nov 2019 - Feb 2021)_** <br>
 Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications that process requests related to gambling activities.
   - **_Tasks:_** Development, maintenance, versioning, accessibility fixes, testing and deployment of multiple framework and non-framework applications
   - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated accordingly
@@ -21,7 +21,7 @@ Consulting service for the Spanish Gambling Regulation Authority, supporting leg
   - **_Tools:_** Eclipse IDE, Oracle SQL Developer, SoapUI
 <br><br>
 
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital _(Oct 2019)_ <br>
+**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital **_(Oct 2019)_** <br>
 Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
   - **_Tasks:_** Study the feasability of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
   - Self-taught custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
@@ -30,7 +30,7 @@ Consulting service for the Community of Madrid's Digital Administration Agency, 
   - **_Tools:_** IntelliJ IDEA
 <br><br>
 
-**Full stack developer intern** at [Docuten](https://docuten.com) (Mar 2019 - May 2019)
+**Full stack developer intern** at [Docuten](https://docuten.com) **_(Mar 2019 - May 2019)_** <br>
 A digital signature and electronic invoicing, and payments service.
   - **_Tasks:_** Development, support and maintenance for the web portal and various APIs
   - [Self-taught](https://github.com/sebaslavigne/sonar-klingon-plugin) custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
@@ -41,13 +41,13 @@ A digital signature and electronic invoicing, and payments service.
 
 ## 🔧 Other projects
 
-**Mod creator** (Apr 2020 - Present)<br>
+**Mod creator** _(Apr 2020 - Present)_ <br>
 _Bear my Banner_ is a deeply customizable mod for _Mount & Blade II: Bannerlord_ that adds banners into the game using existing but hidden game assets. It's hosted on [NexusMods](https://github.com/sebaslavigne/BearMyBanner) and open sourced in [GitHub](https://www.nexusmods.com/mountandblade2bannerlord/mods/432?tab=description).
   - Learning C# and overcoming a different kind of programming challenge
   - Working together with other creators to bring an easy modding experience for players
 <br><br>
 
-**Java Untersee** (Mar 2019 - Jun 2019)<br>
+**Java Untersee** _(Mar 2019 - Jun 2019)_ <br>
 My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine simulation game written in Java featuring:
   - A graphics engine written in Swing
   - A custom game engine
