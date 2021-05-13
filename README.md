@@ -36,6 +36,7 @@ A digital signature and electronic invoicing, and payments service.
   - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
   - **_Environment:_** Java 1.8 (Spring 4, Struts 2, Hibernate, Gradle, Groovy, Spock), Javascript (Bootstrap), Git (Git Flow), MySQL, SOAP, REST, Scrum
   - **_Tools:_** IntelliJ IDEA, MySQL Workbench, SoapUI, Postman, Jenkins, SonarQube, JIRA
+
 <br><br>
 
 ## 🔧 Other projects
@@ -52,6 +53,7 @@ My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine si
   - A custom game engine
   - A command interpreter as the main way for the player to interact with the game
 
+<br><br>
 
 ## 🗨️ Languages
 
@@ -59,6 +61,7 @@ My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine si
 **English**: Bilingual <br>
 **French**: Moderate understanding <br>
 **German**: Über basic <br>
+
 <br><br>
 
 ## 🎓 Education
@@ -69,6 +72,7 @@ My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine si
   
 **Bachelor's Degree in Aerospatial Engineer (Unfinished)** _(2011 - 2015)_ <br>
 *Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, U.P.M.*, Madrid, Spain
+
 <br><br>
 
 ## 💻 Computer skills
