@@ -23,12 +23,20 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <p class="contactlinks">
-          <a class="noprint" href="mailto:sebastianlavigne@tutanota.com">Email</a><span class="printonly">: sebastianlavigne@tutanota.com</span>
+        <p class="contactlinks, noprint">
+          <a href="mailto:sebastianlavigne@tutanota.com">
+            Email
+          </a> / <a href="https://www.linkedin.com/in/sebas-lavigne/">
+          LinkedIn
+          </a> / <a href="{{ site.github.owner_url }}">GitHub</a>
+        </p>
+        
+        <p class="printonly">
+          Email - <a>sebastianlavigne@tutanota.com</a>
           <br>
-          <a class="noprint" href="https://www.linkedin.com/in/sebas-lavigne/"><i class="fab fa-fw fa-github" aria-hidden="true"></i>LinkedIn</a><span class="printonly">: linkedin.com/in/sebas-lavigne/</span>
+          LinkedIn - <a>linkedin.com/in/sebas-lavigne</a>
           <br>
-          <a class="noprint" href="{{ site.github.owner_url }}">GitHub</a><span class="printonly">: github.com/sebaslavigne/</span>
+          GitHub - <a>github.com/sebaslavigne</a>
         </p>
         
         <p><em>I'm a passionate individual, always looking to increase my knowledge and enthusiastic about my work. I adapt with ease to new teams and environments, enjoying methodical, creative and intuitive work, and striving to leave a trace of quality and craftsmanship in my tasks.</em></p>
