@@ -2,7 +2,7 @@
 
 [Email](sebastianlavigne@tutanota.com) / [LinkedIn](https://www.linkedin.com/in/sebas-lavigne/) / [GitHub](https://github.com/sebaslavigne)
 
-## 💻 Work experience
+## 👨‍💼 Work experience
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
@@ -41,11 +41,18 @@ A digital signature and electronic invoicing, and payments service.
 
 ## 🔧 Other projects
 
-**Mod creator** (Apr 2020 - Present)
+**Mod creator** (Apr 2020 - Present)<br>
 _Bear my Banner_ is a deeply customizable mod for _Mount & Blade II: Bannerlord_ that adds banners into the game using existing but hidden game assets. It's hosted on [NexusMods](https://github.com/sebaslavigne/BearMyBanner) and open sourced in [GitHub](https://www.nexusmods.com/mountandblade2bannerlord/mods/432?tab=description).
   - Learning C# and overcoming a different kind of programming challenge
   - Working together with other creators to bring an easy modding experience for players
 <br><br>
+
+**Java Untersee** (Mar 2019 - Jun 2019)<br>
+My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine simulation game written in Java featuring:
+  - A graphics engine written in Swing
+  - A custom game engine
+  - A command interpreter as the main way for the player to interact with the game
+
 
 ## 🗨️ Languages
 
