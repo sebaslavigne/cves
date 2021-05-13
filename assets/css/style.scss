@@ -23,7 +23,7 @@ section p { margin: 0 0 0.4em }
 }
 
 @media print {
-    .downloads { display: none }   
+    .noprint { display: none }   
 }
 
 @font-face {
