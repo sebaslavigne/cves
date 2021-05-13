@@ -54,10 +54,10 @@ Mi [proyecto de fin de grado](https://github.com/sebaslavigne/java-untersee), un
 
 ## 🗨️ Idiomas
 
-**Español**: Nativo
+**Español**: Nativo<br>
 **Inglés**: Bilingüe <br>
 **Francés**: Comprensión moderada <br>
-**Alemán**: Básico <br>
+**Alemán**: Básico
 
 <br><br>
 
