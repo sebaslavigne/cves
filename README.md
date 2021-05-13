@@ -63,7 +63,7 @@ Mi [proyecto de fin de grado](https://github.com/sebaslavigne/java-untersee), un
 
 ## 🎓 Formación
 
-**Técnico en Desarrollo de Aplicaciones Multiplataforma* <span class="daterange">_(2017 - 2019)_</span> <br>
+**Técnico en Desarrollo de Aplicaciones Multiplataforma** <span class="daterange">_(2017 - 2019)_</span> <br>
 *I.E.S Valle del Jerte*, Plasencia, Spain
 <br><br>
   
