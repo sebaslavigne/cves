@@ -13,8 +13,8 @@ Consulting service for the Spanish National Research Council, supporting legacy 
 
 **Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) _(Nov 2019 - Feb 2021)_ <br>
 Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications that process requests related to gambling activities.
-  - **_Tasks:_** Development, maintenance, versioning, accessibility fixes, testing and deployment of multiple framework and non-framework applications
-  - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated accordingly
+  - **_Tasks:_** Development, maintenance, versioning, accessibility fixes, testing and deployment of framework and non-framework applications
+  - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated across the project
   - Implemented new internal libraries
   - Updated the in-house framework to comply with new security requirements
   - **_Environment:_** Java 1.8 / J2EE (Spring 3, Struts, Maven, Hibernate / Ibatis / JDBC, SOAP Web Services, JUnit), Subversion, Oracle Database, Alfresco, Apache Tomcat
