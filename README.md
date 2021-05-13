@@ -1,16 +1,16 @@
 > I'm a passionate individual, always looking to increase my knowledge and enthusiastic about my work. I adapt with ease to new teams and environments, enjoying methodical, creative and intuitive work, and striving to leave a trace of quality and craftsmanship in my tasks.
+<br><br>
 
 ## 👨‍💼 Work experience
-<hr>
 
-**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) **_(Mar 2021 - Present)_** <br>
+**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
   - **_Tasks:_** Analysis, development, maintenance, quality control, versioning, testing, deployment and documentation of multiple legacy applications
   - **_Environment:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
   - **_Tools:_** NetBeans IDE, Toad for Oracle, SonarQube, Jenkins, JMeter, Redmine
 <br><br>    
 
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) **_(Nov 2019 - Feb 2021)_** <br>
+**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) _(Nov 2019 - Feb 2021)_ <br>
 Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications that process requests related to gambling activities.
   - **_Tasks:_** Development, maintenance, versioning, accessibility fixes, testing and deployment of multiple framework and non-framework applications
   - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated accordingly
@@ -20,7 +20,7 @@ Consulting service for the Spanish Gambling Regulation Authority, supporting leg
   - **_Tools:_** Eclipse IDE, Oracle SQL Developer, SoapUI
 <br><br>
 
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital **_(Oct 2019)_** <br>
+**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital _(Oct 2019)_ <br>
 Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
   - **_Tasks:_** Study the feasability of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
   - [Self-taught](https://github.com/sebaslavigne/sonar-klingon-plugin) custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
@@ -29,7 +29,7 @@ Consulting service for the Community of Madrid's Digital Administration Agency, 
   - **_Tools:_** IntelliJ IDEA
 <br><br>
 
-**Full stack developer intern** at [Docuten](https://docuten.com) **_(Mar 2019 - May 2019)_** <br>
+**Full stack developer intern** at [Docuten](https://docuten.com) _(Mar 2019 - May 2019)_ <br>
 A digital signature and electronic invoicing, and payments service.
   - **_Tasks:_** Development, support and maintenance for the web portal and various APIs
   - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
