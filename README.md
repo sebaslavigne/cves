@@ -1,13 +1,13 @@
 ## 👨‍💼 Work experience
 
-**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
+**Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) <span class="daterange">_(Mar 2021 - Present)_</span> <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
   - **_Tasks:_** Analysis, development, maintenance, quality control, versioning, testing, deployment and documentation of multiple legacy applications
   - **_Environment:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
   - **_Tools:_** NetBeans IDE, Toad for Oracle, SonarQube, Jenkins, JMeter, Redmine
 <br><br>    
 
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) _(Nov 2019 - Feb 2021)_ <br>
+**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [DGOJ](https://www.ordenacionjuego.es/) <span class="daterange">_(Nov 2019 - Feb 2021)_</span> <br>
 Consulting service for the Spanish Gambling Regulation Authority, supporting legacy applications that process requests related to gambling activities.
   - **_Tasks:_** Development, maintenance, versioning, accessibility fixes, testing and deployment of framework and non-framework applications
   - Developed a repository that centralized citizen and enterprise information which was previously stored independently by the different DGOJ's applications, created the subsequent data migration processes and integrated across the project
@@ -17,7 +17,7 @@ Consulting service for the Spanish Gambling Regulation Authority, supporting leg
   - **_Tools:_** Eclipse IDE, Oracle SQL Developer, SoapUI
 <br><br>
 
-**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital _(Oct 2019)_ <br>
+**Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital <span class="daterange">_(Oct 2019)_</span> <br>
 Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
   - **_Tasks:_** Study the feasability of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
   - [Self-taught](https://github.com/sebaslavigne/sonar-klingon-plugin) custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
@@ -26,7 +26,7 @@ Consulting service for the Community of Madrid's Digital Administration Agency, 
   - **_Tools:_** IntelliJ IDEA
 <br><br>
 
-**Full stack developer intern** at [Docuten](https://docuten.com) _(Mar 2019 - May 2019)_ <br>
+**Full stack developer intern** at [Docuten](https://docuten.com) <span class="daterange">_(Mar 2019 - May 2019)_</span> <br>
 A digital signature and electronic invoicing, and payments service.
   - **_Tasks:_** Development, support and maintenance for the web portal and various APIs
   - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
@@ -43,7 +43,7 @@ _Bear my Banner_ is a deeply customizable mod for _Mount & Blade II: Bannerlord_
   - Working together with other creators to bring an easy modding experience for players
 <br><br>
 
-**Java Untersee** _(Mar 2019 - Jun 2019)_ <br>
+**Java Untersee** <span class="daterange">_(Mar 2019 - Jun 2019)_</span> <br>
 My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine simulation game written in Java featuring:
   - A graphics engine written in Swing
   - A custom game engine
@@ -62,11 +62,11 @@ My [dissertation](https://github.com/sebaslavigne/java-untersee), a submarine si
 
 ## 🎓 Education
 
-**Cross-platform application development technician** _(2017 - 2019)_ <br>
+**Cross-platform application development technician** <span class="daterange">_(2017 - 2019)_</span> <br>
 *I.E.S Valle del Jerte*, Plasencia, Spain
 <br><br>
   
-**Bachelor's Degree in Aerospatial Engineer (Unfinished)** _(2011 - 2015)_ <br>
+**Bachelor's Degree in Aerospatial Engineer (Unfinished)** <span class="daterange">_(2011 - 2015)_</span> <br>
 *Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, U.P.M.*, Madrid, Spain
 
 <br><br>
