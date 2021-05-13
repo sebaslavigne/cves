@@ -16,6 +16,14 @@ section p { margin: 0 0 0.4em }
 
 .daterange { float: right; }
 
+@media screen {
+    .printonly { display: none }
+}
+
+@media print {
+    .downloads { display: none }   
+}
+
 @font-face {
  font-family:'Noto Sans';
  font-weight:400;
