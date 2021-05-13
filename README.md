@@ -1,6 +1,7 @@
 > I'm a passionate individual, always looking to increase my knowledge and enthusiastic about my work. I adapt with ease to new teams and environments, enjoying methodical, creative and intuitive work, and striving to leave a trace of quality and craftsmanship in my tasks.
 
 ## 👨‍💼 Work experience
+<hr>
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) **_(Mar 2021 - Present)_** <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
