@@ -24,7 +24,7 @@ Consulting service for the Spanish Gambling Regulation Authority, supporting leg
 **Junior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for Madrid Digital **_(Oct 2019)_** <br>
 Consulting service for the Community of Madrid's Digital Administration Agency, migrating their quality control procedures into SonarQube using custom rules.
   - **_Tasks:_** Study the feasability of converting existing custom Cover (proprietary quality analysis software) rules to Sonar
-  - Self-taught custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
+  - [Self-taught](https://github.com/sebaslavigne/sonar-klingon-plugin) custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
   - Created a guide to easily interpret equivalent concepts from Cover to Sonar
   - **_Environment:_** SonarQube 7, Java 1.8, Subversion
   - **_Tools:_** IntelliJ IDEA
@@ -33,8 +33,7 @@ Consulting service for the Community of Madrid's Digital Administration Agency, 
 **Full stack developer intern** at [Docuten](https://docuten.com) **_(Mar 2019 - May 2019)_** <br>
 A digital signature and electronic invoicing, and payments service.
   - **_Tasks:_** Development, support and maintenance for the web portal and various APIs
-  - [Self-taught](https://github.com/sebaslavigne/sonar-klingon-plugin) custom rule development, library integration, external reports importing, custom metrics and post-analysis process implementation
-  - Created a guide to easily interpret equivalent concepts from Cover to Sonar
+  - Brought up to speed in an Agile environment working as a full-fledged member of the tech team
   - **_Environment:_** Java 1.8 (Spring 4, Struts 2, Hibernate, Gradle, Groovy, Spock), Javascript (Bootstrap), Git (Git Flow), MySQL, SOAP, REST, Scrum
   - **_Tools:_** IntelliJ IDEA, MySQL Workbench, SoapUI, Postman, Jenkins, SonarQube, JIRA
 <br><br>
