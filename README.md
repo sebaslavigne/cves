@@ -1,7 +1,5 @@
 > I'm a passionate individual, always looking to increase my knowledge and enthusiastic about my work. I adapt with ease to new teams and environments, enjoying methodical, creative and intuitive work, and striving to leave a trace of quality and craftsmanship in my tasks.
 
-[Email](sebastianlavigne@tutanota.com) / [LinkedIn](https://www.linkedin.com/in/sebas-lavigne/) / [GitHub](https://github.com/sebaslavigne)
-
 ## 👨‍💼 Work experience
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) **_(Mar 2021 - Present)_** <br>
