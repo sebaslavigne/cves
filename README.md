@@ -2,7 +2,7 @@
 
 [Email](sebastianlavigne@tutanota.com) / [LinkedIn](https://www.linkedin.com/in/sebas-lavigne/) / [GitHub](https://github.com/sebaslavigne)
 
-## 👔 Work experience
+## 💻 Work experience
 
 **Senior developer** at [Bilbomática](https://www.bilbomatica.es/), consulting for [CSIC](https://www.csic.es/) _(Mar 2021 - Present)_ <br>
 Consulting service for the Spanish National Research Council, supporting legacy applications that manage subsidies to third-party investigators.
@@ -54,7 +54,7 @@ _Bear my Banner_ is a deeply customizable mod for _Mount & Blade II: Bannerlord_
   * Microsoft Visual Studio
 <br><br>
 
-## 💬 Languages
+## 🗨️ Languages
 
 **Spanish**: Native
 **English**: Bilingual <br>
@@ -72,43 +72,37 @@ _Bear my Banner_ is a deeply customizable mod for _Mount & Blade II: Bannerlord_
 *Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, U.P.M.*, Madrid, Spain
 <br><br>
 
-## Skills
+## 💻 Computer skills
 
-### Languages
+**Languages**
+* **Java**: proficient
+* **C#**: proficient
+* **Python**: intermediate
+* **Fortran**: intermediate
+* **C++**: novice
 
-* Java (J2EE, Maven, Gradle, JSP, JPA, JDBC, JSF, Struts, Spring, Hibernate, Groovy, JUnit, Spock)
-* C#
-* Python
-* Fortran
-* JavaScript (JQuery, Bootstrap)
-* HTML, XHTML, CSS
+* HTML, XHTML, CSS, JavaScript (JQuery, Bootstrap)
 * XML, JSON, YAML
-* LaTeX
+* LaTeX, Markdown
 * SQL (Oracle, MySQL, PostgreSQL)
 
-### Tools and concepts
+**Operating systems**
+* Linux (systemd)
+* Windows
+* Android
 
-* Git (Git Flow)
-* Subversion
+**Tools**
+* Git (Git Flow), Subversion
 * SonarQube
 * Jmeter
 * Jenkins
 * JIRA
 * GIMP
 * UML
-* MVC
-* TDD
 * SoapUI
 * Postman
  
-### OS
-
-* Linux (systemd)
-* Windows
-* Android
-
-### IDEs
-
+**IDEs**
 * IntelliJ IDEA, NetBeans, Eclipse
 * Visual Studio
 * Android Studio
