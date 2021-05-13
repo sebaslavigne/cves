@@ -45,13 +45,6 @@ A digital signature and electronic invoicing, and payments service.
 _Bear my Banner_ is a deeply customizable mod for _Mount & Blade II: Bannerlord_ that adds banners into the game using existing but hidden game assets. It's hosted on [NexusMods](https://github.com/sebaslavigne/BearMyBanner) and open sourced in [GitHub](https://www.nexusmods.com/mountandblade2bannerlord/mods/432?tab=description).
   - Learning C# and overcoming a different kind of programming challenge
   - Working together with other creators to bring an easy modding experience for players
-
-* 2020-04-10 - Actualidad\
-  **Creator**\
-  **Bear My Banner** A mod for Mount & Blade 2: Bannerlord
-  * A deeply customizable mod that adds banners into the game using existing but hidden assets
-  * C#, Git (Git Flow)
-  * Microsoft Visual Studio
 <br><br>
 
 ## 🗨️ Languages
