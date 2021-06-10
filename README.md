@@ -1,6 +1,11 @@
 ## 👨‍💼 Experiencia laboral
 
-**Desarrollador senior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para el [CSIC](https://www.csic.es/) <span class="daterange">_(mar 2021 - actualidad)_</span> <br>
+**Técnico QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - actualidad)_</span> <br>
+Consultoría de análisis de calidad e integración continua para varias empresas de la industria de seguros.
+  - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA
+<br><br> 
+
+**Desarrollador senior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para el [CSIC](https://www.csic.es/) <span class="daterange">_(mar 2021 - may 2021)_</span> <br>
 Servicios de consultoría para el Consejo Superior de Investigaciones Científicas, soportando aplicaciones legadas que gestionan prestaciones a terceros investigadores.
   - **_Tareas:_** Análisis, evolutivos, mantenimiento, control de calidad y de versiones, testing, despliegue y documentación de varias aplicaciones legadas
   - **_Entorno:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
