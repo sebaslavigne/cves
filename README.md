@@ -1,7 +1,8 @@
 ## 👨‍💼 Experiencia laboral
 
-**Técnico QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - actualidad)_</span> <br>
+**Analista QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - actualidad)_</span> <br>
 Consultoría de análisis de calidad e integración continua para varias empresas de la industria de seguros.
+  - **_Tareas:_** Analizar, idear y establecer modelos de auditoría de calidad en varios proyectos, dar consultas con equipos de desarrollo de clientes, desarrollo de reglas propias de análisis estático, automatización de extracción de datos usando APIs para la elaboración de informes personalizados, configuración de pipelines de integración continua
   - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA
 <br><br> 
 
