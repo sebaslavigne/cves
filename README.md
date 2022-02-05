@@ -1,6 +1,6 @@
 ## 👨‍💼 Experiencia laboral
 
-**Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2021)_</span> <br>
+**Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2022)_</span> <br>
 Solución completa de calidad a medida
   - **_Tareas:_** 
     - Analizar, idear y establecer modelos de control de calidad dentro de una migración de checKing a Kiuwan
