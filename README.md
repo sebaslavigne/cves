@@ -1,7 +1,18 @@
 ## 👨‍💼 Experiencia laboral
 
-**Analista QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - actualidad)_</span> <br>
-Consultoría de análisis de calidad e integración continua para varias empresas de la industria de seguros.
+**Analista QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2021)_</span> <br>
+Solución completa de calidad a medida.
+  - **_Tareas:_** Analizar, idear y establecer modelos de control de calidad dentro de una migración de checKing a Kiuwan.
+  - Implementación de reglas custom de Kiuwan que se adapten a requisitos de calidad del BdE.
+  - Diseño de BBDD y desarrollo de una API dockerizada de gestión y guardado de métricas propias de calidad, para su posterior procesado en Kiuwan.
+  - Desarrollo de librerías internas para la transformación de datos y migración masiva de aplicaciones entre checKing y Kiuwan.
+  - Soporte y formación a equipos en el uso de nuevas herramientas.
+  - **_Entorno:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Oracle Database, Docker, Swagger, Gradle, Git
+  - **_Herramientas:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
+<br><br> 
+
+**Técnico QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - oct 2021)_</span> <br>
+Consultoría de análisis de calidad e integración continua para clientes de la industria de seguros.
   - **_Tareas:_** Analizar, idear y establecer modelos de auditoría de calidad en varios proyectos, dar consultas con equipos de desarrollo de clientes, desarrollo de reglas propias de análisis estático, automatización de extracción de datos usando APIs para la elaboración de informes personalizados, configuración de pipelines de integración continua
   - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
@@ -44,17 +55,17 @@ Docuten es un servicio de firma y facturación electrónica centralizado.
 
 ## 🔧 Otros proyectos
 
-**Creador de mods** <span class="daterange">_(Apr 2020 - Present)_</span> <br>
-_Bear my Banner_ es un mod completamente personalizable para _Mount & Blade II: Bannerlord_ que añade estandartes al juego usando recursos ya presentes pero ocultos en el código. Está alojado [NexusMods](https://github.com/sebaslavigne/BearMyBanner) y con el código abierto en [GitHub](https://www.nexusmods.com/mountandblade2bannerlord/mods/432?tab=description).
-  - Aprendo C# y supero retos de programación distintos
-  - Me coordino con otros creadores para darles una experienca de modificación sencilla a los jugadores
+**Desarrollo de mods** <span class="daterange">_(2020)_</span> <br>
+_Bear my Banner_ es un mod completamente personalizable para _Mount & Blade II: Bannerlord_ que añade estandartes al juego usando recursos ya presentes pero ocultos en el código. Está alojado [NexusMods](https://github.com/sebaslavigne/BearMyBanner) y con código abierto en [GitHub](https://www.nexusmods.com/mountandblade2bannerlord/mods/432?tab=description).
+  - Aprendí C# y superé retos de programación diferentes a los de mi vida laboral
+  - Coordiné con otros creadores para darles una experienca de modificación sencilla y completa a los jugadores
 <br><br>
 
 **Java Untersee** <span class="daterange">_(Mar 2019 - Jun 2019)_</span> <br>
 Mi [proyecto de fin de grado](https://github.com/sebaslavigne/java-untersee), una simulación de submarinos escrita en Java con:
   - Un motor gráfico propio escrito en Swing
   - Un motor de juego propio
-  - Un intérprete de comandos como la manera principal de interacción
+  - Un intérprete de comandos como interfaz principal de interacción
 
 <br><br>
 
