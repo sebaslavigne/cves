@@ -2,8 +2,7 @@
 
 **Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2022)_</span> <br>
 Solución completa de calidad a medida
-  - **_Tareas:_** 
-    - Analizar, idear y establecer modelos de control de calidad dentro de una migración de checKing a Kiuwan
+  - **_Tareas:_** Análisis, diseño y configuración de modelos de control de calidad dentro de una migración de checKing a Kiuwan
     - Implementación de reglas custom en Kiuwan que se adapten a requisitos de calidad del BdE
     - Diseño de BBDD y desarrollo de una API dockerizada de guardado y gestión de métricas propias de calidad, para su posterior procesado en Kiuwan
     - Desarrollo de librerías internas para la transformación de datos y migración masiva de aplicaciones entre checKing y Kiuwan
@@ -14,7 +13,7 @@ Solución completa de calidad a medida
 
 **Técnico QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - oct 2021)_</span> <br>
 Consultoría de análisis de calidad e integración continua para clientes de la industria de seguros.
-  - **_Tareas:_** Analizar, idear y establecer modelos de auditoría de calidad en varios proyectos, dar consultas con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs para la elaboración de informes personalizados, configuración de pipelines de integración continua.
+  - **_Tareas:_** Análisis, diseño y configuración de modelos de auditoría de calidad en varios proyectos, consultoría directa con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs para la elaboración de informes personalizados, configuración de pipelines de integración continua
   - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
@@ -47,8 +46,7 @@ Servicios de consultoría para Madrid Digital, migrando su control de calidad a 
 
 **Desarrollador Full Stack en prácticas** at [Docuten](https://docuten.com) <span class="daterange">_(Mar 2019 - May 2019)_</span> <br>
 Docuten es un servicio de firma y facturación electrónica centralizado.
-  - **_Tareas:_**
-    - Desarrollo, soporte y mantenimiento del portal web y varias APIs
+  - **_Tareas:_** Desarrollo, soporte y mantenimiento del portal web y varias APIs
     - Instruido en un entorno ágil, participando como pleno miembro del equipo técnico
   - **_Entorno:_** Java 1.8 (Spring 4, Struts 2, Hibernate, Gradle, Groovy, Spock), Javascript (Bootstrap), Git (Git Flow), MySQL, SOAP, REST, Scrum
   - **_Herramientas:_** IntelliJ IDEA, MySQL Workbench, SoapUI, Postman, Jenkins, SonarQube, JIRA
