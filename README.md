@@ -126,9 +126,9 @@ Mi [proyecto de fin de grado](https://github.com/sebaslavigne/java-untersee), un
 **IDEs**
 * IntelliJ IDEA, NetBeans, Eclipse
 * Visual Studio
+* PyCharm
+* TeXstudio
 * Android Studio
 * Spyder
-* PyCharm
 * Unity3D
 * GameMaker
-* TeXStudio
