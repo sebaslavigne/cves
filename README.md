@@ -1,13 +1,13 @@
 ## 👨‍💼 Experiencia laboral
 
 **Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2021)_</span> <br>
-Solución completa de calidad a medida.
+Solución completa de calidad a medida
   - **_Tareas:_** 
-    - Analizar, idear y establecer modelos de control de calidad dentro de una migración de checKing a Kiuwan.
-    - Implementación de reglas custom en Kiuwan que se adapten a requisitos de calidad del BdE.
-    - Diseño de BBDD y desarrollo de una API dockerizada de gestión y guardado de métricas propias de calidad, para su posterior procesado en Kiuwan.
-    - Desarrollo de librerías internas para la transformación de datos y migración masiva de aplicaciones entre checKing y Kiuwan.
-    - Soporte y formación a equipos en el uso de nuevas herramientas.
+    - Analizar, idear y establecer modelos de control de calidad dentro de una migración de checKing a Kiuwan
+    - Implementación de reglas custom en Kiuwan que se adapten a requisitos de calidad del BdE
+    - Diseño de BBDD y desarrollo de una API dockerizada de guardado y gestión de métricas propias de calidad, para su posterior procesado en Kiuwan
+    - Desarrollo de librerías internas para la transformación de datos y migración masiva de aplicaciones entre checKing y Kiuwan
+    - Soporte y formación a equipos en el uso y mantenimiento de nuevas herramientas
   - **_Entorno:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Oracle Database, Docker, Swagger, Gradle, Git
   - **_Herramientas:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
 <br><br> 
@@ -27,8 +27,7 @@ Servicios de consultoría para el Consejo Superior de Investigaciones Científic
 
 **Desarrollador junior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para la [DGOJ](https://www.ordenacionjuego.es/) <span class="daterange">_(Nov 2019 - Feb 2021)_</span> <br>
 Servicios de consultoría para la Dirección General de Ordenación del Juego, soportando aplicaciones legadas que tramitan peticiones relacionadas con el juego seguro.
-  - **_Tareas:_**
-    - Evolutivos, mantenimiento, control de versiones, accesibilidad, testing y desarrollo de aplicaciones framework y no-framework.
+  - **_Tareas:_** Evolutivos, mantenimiento, control de versiones, accesibilidad, testing y desarrollo de aplicaciones framework y no-framework.
     - Desarrollo de un repositorio general de información de ciudadanos y empresas para uso común entre diferentes aplicaciones, creación los procesos de migración de datos e integración la nueva funcionalidad en varios proyectos.
     - Creación de nuevas librerías internas.
     - Actualización el framework de la casa para cumplir con nuevos requisitos de seguridad.
@@ -38,8 +37,7 @@ Servicios de consultoría para la Dirección General de Ordenación del Juego, s
 
 **Desarrollador junior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para Madrid Digital <span class="daterange">_(Oct 2019)_</span> <br>
 Servicios de consultoría para Madrid Digital, migrando su control de calidad a SonarQube usando reglas propias.
-  - **_Tareas:_**
-    - Estudiar la posibilidad de convertir reglas propias existentes en Cover (software de análisis de calidad propietario) a Sonar
+  - **_Tareas:_** Estudiar la posibilidad de convertir reglas propias existentes en Cover (software de análisis de calidad propietario) a Sonar
     - [Investigué](https://github.com/sebaslavigne/sonar-klingon-plugin) el desarrollo de reglas propias en Sonar, integración de librerías, importación de informes externos, métricas propias y ejecución de procesos post-análisis
     - Creé una metodología de conversión de conceptos equivalentes entre Cover y Sonar
     - Senté una base para la parametrización cubriendo con ejemplos todos los tipos de reglas presentes en el proyecto
