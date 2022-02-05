@@ -12,10 +12,7 @@ h2:after
     margin-top: 0.4em;
 }
 
-#description
-{
-    border: none;   
-}
+#description::after { border: none }
 
 section p { margin: 0 0 0.4em }
 
