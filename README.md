@@ -1,10 +1,10 @@
 ## 👨‍💼 Experiencia laboral
 
-**Analista QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2021)_</span> <br>
+**Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2021)_</span> <br>
 Solución completa de calidad a medida.
   - **_Tareas:_** 
     - Analizar, idear y establecer modelos de control de calidad dentro de una migración de checKing a Kiuwan.
-    - Implementación de reglas custom de Kiuwan que se adapten a requisitos de calidad del BdE.
+    - Implementación de reglas custom en Kiuwan que se adapten a requisitos de calidad del BdE.
     - Diseño de BBDD y desarrollo de una API dockerizada de gestión y guardado de métricas propias de calidad, para su posterior procesado en Kiuwan.
     - Desarrollo de librerías internas para la transformación de datos y migración masiva de aplicaciones entre checKing y Kiuwan.
     - Soporte y formación a equipos en el uso de nuevas herramientas.
@@ -14,7 +14,7 @@ Solución completa de calidad a medida.
 
 **Técnico QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - oct 2021)_</span> <br>
 Consultoría de análisis de calidad e integración continua para clientes de la industria de seguros.
-  - **_Tareas:_** Analizar, idear y establecer modelos de auditoría de calidad en varios proyectos, dar consultas con equipos de desarrollo de clientes, desarrollo de reglas propias de análisis estático, automatización de extracción de datos usando APIs para la elaboración de informes personalizados, configuración de pipelines de integración continua
+  - **_Tareas:_** Analizar, idear y establecer modelos de auditoría de calidad en varios proyectos, dar consultas con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs para la elaboración de informes personalizados, configuración de pipelines de integración continua.
   - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
@@ -27,10 +27,11 @@ Servicios de consultoría para el Consejo Superior de Investigaciones Científic
 
 **Desarrollador junior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para la [DGOJ](https://www.ordenacionjuego.es/) <span class="daterange">_(Nov 2019 - Feb 2021)_</span> <br>
 Servicios de consultoría para la Dirección General de Ordenación del Juego, soportando aplicaciones legadas que tramitan peticiones relacionadas con el juego seguro.
-  - **_Tareas:_** Evolutivos, mantenimiento, control de versiones, accesibilidad, testing y desarrollo de aplicaciones framework y no-framework
-  - Desarrollé un repositorio general de información de ciudadanos y empresas que previamente se guardaban de manera independiente por diferentes aplicaciones, creé los procesos de migración de datos e integré la nueva funcionalidad a lo largo del proyecto
-  - Implementé nuevas librerías internas
-  - Actualicé el framework de la casa para cumplir con nuevos requisitos de seguridad
+  - **_Tareas:_**
+    - Evolutivos, mantenimiento, control de versiones, accesibilidad, testing y desarrollo de aplicaciones framework y no-framework.
+    - Desarrollo de un repositorio general de información de ciudadanos y empresas para uso común entre diferentes aplicaciones, creación los procesos de migración de datos e integración la nueva funcionalidad en varios proyectos.
+    - Creación de nuevas librerías internas.
+    - Actualización el framework de la casa para cumplir con nuevos requisitos de seguridad.
   - **_Entorno:_** Java 1.8 / J2EE (Spring 3, Struts, Maven, Hibernate / Ibatis / JDBC, SOAP Web Services, JUnit), Subversion, Oracle Database, Alfresco, Apache Tomcat
   - **_Herramientas:_** Eclipse IDE, Oracle SQL Developer, SoapUI
 <br><br>
