@@ -1,6 +1,6 @@
 ## 👨‍💼 Experiencia laboral
 
-**Ingeniero QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - oct 2021)_</span> <br>
+**Ingeniero QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - actualidad)_</span> <br>
 Consultoría de análisis de calidad e integración continua para clientes de las industrias de seguros y bancaria y para la administración pública.
   - **_Tareas:_** Análisis, diseño y configuración de modelos de auditoría de calidad en varios proyectos, especialmente análisis de código. Consultoría directa con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs, elaboración de informes personalizados, configuración de pipelines de integración continua
   - **_Entorno_** Java, Python
