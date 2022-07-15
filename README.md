@@ -14,7 +14,7 @@ Solución completa de calidad a medida.
     - Diseño de BBDD y desarrollo de una API dockerizada de guardado y gestión de métricas propias de calidad, para su posterior procesado en Kiuwan
     - Desarrollo de librerías internas para la transformación de datos y migración masiva de aplicaciones entre checKing y Kiuwan
     - Soporte y formación a equipos en el uso y mantenimiento de nuevas herramientas
-  - **_Entorno:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Oracle Database, Docker, Swagger, Gradle, Git
+  - **_Entorno:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Junit, Mockito, Oracle Database, Docker, Swagger, Gradle, Git
   - **_Herramientas:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
 <br><br> 
 
