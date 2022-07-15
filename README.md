@@ -1,5 +1,12 @@
 ## 👨‍💼 Experiencia laboral
 
+**Ingeniero QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - oct 2021)_</span> <br>
+Consultoría de análisis de calidad e integración continua para clientes de las industrias de seguros y bancaria y para la administración pública.
+  - **_Tareas:_** Análisis, diseño y configuración de modelos de auditoría de calidad en varios proyectos, especialmente análisis de código. Consultoría directa con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs, elaboración de informes personalizados, configuración de pipelines de integración continua
+  - **_Entorno_** Java, Python
+  - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA
+<br><br> 
+
 **Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2022)_</span> <br>
 Solución completa de calidad a medida.
   - **_Tareas:_** Análisis, diseño y configuración de modelos de control de calidad dentro de una migración de checKing a Kiuwan
@@ -9,12 +16,6 @@ Solución completa de calidad a medida.
     - Soporte y formación a equipos en el uso y mantenimiento de nuevas herramientas
   - **_Entorno:_** Java 1.8, Kiuwan Analyzer, Spring Boot, Oracle Database, Docker, Swagger, Gradle, Git
   - **_Herramientas:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
-<br><br> 
-
-**Técnico QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - oct 2021)_</span> <br>
-Consultoría de análisis de calidad e integración continua para clientes de la industria de seguros.
-  - **_Tareas:_** Análisis, diseño y configuración de modelos de auditoría de calidad en varios proyectos, consultoría directa con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs para la elaboración de informes personalizados, configuración de pipelines de integración continua
-  - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA, IntelliJ IDEA
 <br><br> 
 
 **Desarrollador senior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para el [CSIC](https://www.csic.es/) <span class="daterange">_(mar 2021 - may 2021)_</span> <br>
