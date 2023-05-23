@@ -1,13 +1,20 @@
 ## 👨‍💼 Experiencia laboral
 
-**Ingeniero QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - actualidad)_</span> <br>
+**Ingeniero de software** en [RHEA](https://www.rheagroup.com/) <span class="daterange">_(sep 2022 - actualidad)_</span> <br>
+Ingeniería de software y soporte técnico de sistemas de Segmento de Tierra para la ESA/ESOC y otras agencias y empresas del sector espacial.
+  - **_Tareas:_** Desarrollos, mantenimiento y soporte técnico a usuarios de MOIS (framework de RHEA para preparación, validación y ejecución de procedimientos de misión) en la ESA/ESOC y Astroscale. Extensión del Ground Segment Engineering Framework (GSEF) de la ESA para modelar fases tempranas de diseño de misión con técnicas MBSE. Integración con Grafana para visualización de datos de telemetría y eventos.
+  - **_Entorno:_** Java, VB.NET, Python
+  - **_Herramientas:_** Docker, JIRA, SysMLv2, Eclipse EMF, MOIS, GSEF, Grafana
+<br><br> 
+
+**Ingeniero QA** en [MTP](https://www.mtp.es/) <span class="daterange">_(jun 2021 - sep 2022)_</span> <br>
 Consultoría de análisis de calidad e integración continua para clientes de las industrias de seguros y bancaria y para la administración pública.
   - **_Tareas:_** Análisis, diseño y configuración de modelos de auditoría de calidad en varios proyectos, especialmente análisis de código. Consultoría directa con equipos de desarrollo de clientes, automatización de extracción de datos usando APIs, elaboración de informes personalizados, configuración de pipelines de integración continua
-  - **_Entorno_** Java, Python
+  - **_Entorno:_** Java, Python
   - **_Herramientas:_** SonarQube, Kiuwan, Jenkins, JIRA
 <br><br> 
 
-**Analista software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2022)_</span> <br>
+**Analista de software y QA** en [MTP](https://www.mtp.es/), consultoría para el [Banco de España](https://www.bde.es/bde/es/) <span class="daterange">_(oct 2021 - feb 2022)_</span> <br>
 Solución completa de calidad a medida.
   - **_Tareas:_** Análisis, diseño y configuración de modelos de control de calidad dentro de una migración de checKing a Kiuwan
     - Implementación de reglas custom en Kiuwan que se adapten a requisitos de calidad del BdE
@@ -18,32 +25,15 @@ Solución completa de calidad a medida.
   - **_Herramientas:_** Eclipse IDE, Kiuwan, PL/SQL Developer, SoapUI
 <br><br> 
 
-**Desarrollador senior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para el [CSIC](https://www.csic.es/) <span class="daterange">_(mar 2021 - may 2021)_</span> <br>
-Servicios de consultoría para el Consejo Superior de Investigaciones Científicas, soportando aplicaciones legadas que gestionan prestaciones a terceros investigadores.
-  - **_Tareas:_** Análisis, evolutivos, mantenimiento, control de calidad y de versiones, testing, despliegue y documentación de varias aplicaciones legadas
-  - **_Entorno:_** Java 1.6 / J2EE (Spring 2, Struts 1, JSF 1, Maven, Hibernate / JDBC), Subversion, Oracle Database, Alfresco, JBoss
-  - **_Herramientas:_** NetBeans IDE, Toad for Oracle, SonarQube, Jenkins, JMeter, Redmine
-<br><br>    
-
-**Desarrollador junior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para la [DGOJ](https://www.ordenacionjuego.es/) <span class="daterange">_(Nov 2019 - Feb 2021)_</span> <br>
-Servicios de consultoría para la Dirección General de Ordenación del Juego, soportando aplicaciones legadas que tramitan peticiones relacionadas con el juego seguro.
-  - **_Tareas:_** Evolutivos, mantenimiento, control de versiones, accesibilidad, testing y desarrollo de aplicaciones framework y no-framework.
+**Desarrollador junior / senior** en [Bilbomática](https://www.bilbomatica.es/) <span class="daterange">_(oct 2019 - may 2021)_</span> <br>
+Servicios de consultoría para varias administraciones públicas como la Dirección General de Ordenación del Juego ([DGOJ](https://www.ordenacionjuego.es/)), el Consejo Superior de Investigaciones Científicas ([CSIC](https://www.csic.es/)) y [Madrid Digital](https://www.comunidad.madrid/servicios/sede-electronica/madrid-digital), soportando aplicaciones legadas y desarrollando nuevas soluciones.
+  - **_Tareas:_** Análisis, desarrollo, mantenimiento, control de calidad, versionado, testing, despliegue y documentación de varias aplicaciones legadas.
     - Desarrollo de un repositorio general de información de ciudadanos y empresas para uso común entre diferentes aplicaciones, creación los procesos de migración de datos e integración la nueva funcionalidad en varios proyectos.
-    - Creación de nuevas librerías internas.
-    - Actualización el framework de la casa para cumplir con nuevos requisitos de seguridad.
-  - **_Entorno:_** Java 1.8 / J2EE (Spring 3, Struts, Maven, Hibernate / Ibatis / JDBC, SOAP Web Services, JUnit), Subversion, Oracle Database, Alfresco, Apache Tomcat
-  - **_Herramientas:_** Eclipse IDE, Oracle SQL Developer, SoapUI
-<br><br>
-
-**Desarrollador junior** en [Bilbomática](https://www.bilbomatica.es/), consultoría para Madrid Digital <span class="daterange">_(Oct 2019)_</span> <br>
-Servicios de consultoría para Madrid Digital, migrando su control de calidad a SonarQube usando reglas propias.
-  - **_Tareas:_** Estudiar la posibilidad de convertir reglas propias existentes en Cover (software de análisis de calidad propietario) a Sonar
-    - [Investigué](https://github.com/sebaslavigne/sonar-klingon-plugin) el desarrollo de reglas propias en Sonar, integración de librerías, importación de informes externos, métricas propias y ejecución de procesos post-análisis
-    - Creé una metodología de conversión de conceptos equivalentes entre Cover y Sonar
-    - Senté una base para la parametrización cubriendo con ejemplos todos los tipos de reglas presentes en el proyecto
-  - **_Entorno:_** SonarQube 7, Java 1.8, Subversion
-  - **_Herramientas:_** IntelliJ IDEA
-<br><br>
+    - Desarrollo de reglas propias en Sonar, integración de librerías, importación de informes externos, métricas propias e implementación de procesos post-análisis
+    - Sonar custom rule development, library integration, external report importing, custom metrics and post-analysis process implementation
+  - **_Entorno:_** Java 1.6, 1.8 / J2EE, SVN, Git, Oracle, MySQL, Alfresco
+  - **_Herramientas:_** SonarQube, Jenkins, JMeter, Redmine, SoapUI, NetBeans IDE, Eclipse IDE, Intellij IDEA
+<br><br> 
 
 **Desarrollador Full Stack en prácticas** at [Docuten](https://docuten.com) <span class="daterange">_(Mar 2019 - May 2019)_</span> <br>
 Docuten es un servicio de firma y facturación electrónica centralizado.
@@ -75,7 +65,7 @@ Mi [proyecto de fin de grado](https://github.com/sebaslavigne/java-untersee), un
 **Español**: Nativo<br>
 **Inglés**: Bilingüe <br>
 **Francés**: Comprensión moderada <br>
-**Alemán**: Básico
+**Alemán**: Básico, estudiando
 
 <br><br>
 
